@@ -1,4 +1,6 @@
-# Dedsec-Notion-Ai
+<h1 align="center"> DEDSEC NOTION AI <h1>
+<img src="banner.png" width="100%"/>
+
 Use notion ai forever by generating account again and again
 
 ### METHOD
